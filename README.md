@@ -25,4 +25,4 @@ This project analyzes financial product sales data using Power BI and provides i
 
 ## 📷 Dashboard Preview
 
-![Dashboard Preview](images/dashboard.png)
+![Dashboard Preview](Sales_Dashboard.jpeg)
